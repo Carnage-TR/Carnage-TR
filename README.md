@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Carnage-TR
+- 👀 I’m interested in technology and games
+- 🌱 I’m currently learning python
